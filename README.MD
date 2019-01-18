@@ -1,6 +1,5 @@
 ## Todo GRPC server 
-####(initial idea doesn't belong to me btw)
-current state is very messy, this repo only serves as my playground to test grpc behavior
+(initial idea doesn't belong to me btw). current state is very messy, this repo only serves as my playground to test grpc behavior
 
 #### proto definition
 `todo/todo.proto`
